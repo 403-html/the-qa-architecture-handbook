@@ -18,7 +18,7 @@ This handbook aims to assist you in cultivating a quality-first culture, empower
 
 We will explore the journey of creating a solid QA architecture through four key pillars that are closely linked:
 
-- Culture foundation: Fostering a quality culture; establishing a quality-first mindset and creating vital planning processes to support it.
-- Core infrastructure: Continuous deployements, continuous monitoring and early issues detection; developing a strong infrastructure for ongoing monitoring, proactive identification of issues, and ensuring security.
-- Automations: We should scale our confidence by deploying a thorough range of automated processes and tests to guarantee processes and code quality, functionality, and performance.
-- Exploratory and manual testing: Now the human element, utilizing human insight, creativity, and feedback from real users to identify problems and enhance the overall user experience.
+- **Culture foundation**: Fostering a quality culture; establishing a quality-first mindset and creating vital planning processes to support it.
+- **Core infrastructure**: Continuous deployements, continuous monitoring and early issues detection; developing a strong infrastructure for ongoing monitoring, proactive identification of issues, and ensuring security.
+- **Automations**: We should scale our confidence by deploying a thorough range of automated processes and tests to guarantee processes and code quality, functionality, and performance.
+- **Exploratory and manual testing**: Now the human element, utilizing human insight, creativity, and feedback from real users to identify problems and enhance the overall user experience.
