@@ -22,3 +22,10 @@ We will explore the journey of creating a solid QA architecture through four key
 - **Core infrastructure**: Continuous deployements, continuous monitoring and early issues detection; developing a strong infrastructure for ongoing monitoring, proactive identification of issues, and ensuring security.
 - **Automations**: We should scale our confidence by deploying a thorough range of automated processes and tests to guarantee processes and code quality, functionality, and performance.
 - **Exploratory and manual testing**: Now the human element, utilizing human insight, creativity, and feedback from real users to identify problems and enhance the overall user experience.
+
+## Sections & Resources
+
+- Go to Section 1: Foundation - Cultivating a Quality Culture
+- Go to Section 2: Core Infrastructure - Monitoring and Early Detection
+- Go to Section 3: Automated Testing - Building Confidence at Scale
+- Go to Section 4: Exploratory and Manual Testing - The Human Touch
