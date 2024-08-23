@@ -25,7 +25,8 @@ We will explore the journey of creating a solid QA architecture through four key
 
 ## Sections & Resources
 
-- Go to Section 1: Foundation - Cultivating a Quality Culture
-- Go to Section 2: Core Infrastructure - Monitoring and Early Detection
-- Go to Section 3: Automated Testing - Building Confidence at Scale
-- Go to Section 4: Exploratory and Manual Testing - The Human Touch
+- Go to Section 1: Culture foundation - cultivating a quality culture
+- Go to Section 2: Core infrastructure - monitoring and early detection
+- Go to Section 3: Automations - building confidence at scale
+- Go to Section 4: Exploratory and manual testing - the human touch
+
