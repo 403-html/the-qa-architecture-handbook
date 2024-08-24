@@ -29,3 +29,11 @@ We will explore the journey of creating a solid QA architecture through four key
 - Go to [Section 2: Core infrastructure](./docs/core-infrastructure.md) - monitoring and early detection
 - Go to [Section 3: Automations](./docs/automations.md) - building confidence at scale
 - Go to [Section 4: Exploratory and manual testing](./docs/human-touch.md) - the human touch
+
+## Contribution and style guidelines
+
+Your contributions to this handbook are highly appreciated. To ensure consistency and readability, we created a set of guidelines. Please refer to the [Contribution and style guidelines](./CONTRIBUTION.md) for more details.
+
+## License
+
+This handbook is licensed under the [MIT License](./LICENSE). Feel free to use, share, and modify it according to your needs.
