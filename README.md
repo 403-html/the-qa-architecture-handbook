@@ -6,7 +6,7 @@ This handbook is designed to assist you, whether you are beginning to develop yo
 
 ## Core philosophy
 
-Before exploring the details, it is essential to recognize a key principle: **Quality is not exclusively the duty of the QA team; rather, it is a collective responsibility that encompasses all teams and individuals engaged in the software development process.** 
+Before exploring the details, it is essential to recognize a key principle: **Quality is not exclusively the duty of the QA team; rather, it is a collective responsibility that encompasses all teams and individuals engaged in the software development process.**
 
 This handbook aims to assist you in cultivating a quality-first culture, empowering everyone to play a role in delivering outstanding products.
 
@@ -25,8 +25,7 @@ We will explore the journey of creating a solid QA architecture through four key
 
 ## Sections & Resources
 
-- Go to Section 1: Culture foundation - cultivating a quality culture
-- Go to Section 2: Core infrastructure - monitoring and early detection
-- Go to Section 3: Automations - building confidence at scale
-- Go to Section 4: Exploratory and manual testing - the human touch
-
+- Go to [Section 1: Culture foundation](./docs/culture-foundation.md) - cultivating a quality culture
+- Go to [Section 2: Core infrastructure](./docs/core-infrastructure.md) - monitoring and early detection
+- Go to [Section 3: Automations](./docs/automations.md) - building confidence at scale
+- Go to [Section 4: Exploratory and manual testing](./docs/human-touch.md) - the human touch
