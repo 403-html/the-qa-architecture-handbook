@@ -4,16 +4,16 @@ In the context of QA architecture, automations are a critical component that ena
 
 ## 3.1 Why automations matter
 
-In evergrowing and fast-paced development environments, manual labor is not enough to keep up with the pace of change. Automations play a crucial role in accelerating the development process, reducing human error, and ensuring consistent and reliable results. By automating repetitive tasks, such as testing, deployment, and monitoring, teams can focus on more strategic and creative work, while also improving the overall quality of their products. Key benefits of automations include:
+In constantly evolving and rapidly changing development environments, manual work is not enough to keep up with the pace of change. Automation plays a key role in speeding up the development process, reducing human error and ensuring consistent and reliable results. By automating repetitive tasks such as testing, deployment and monitoring, teams can focus on more strategic and creative work while improving the overall quality of their products. Key benefits of automation include
 
-- Faster feedback loops: Automated tests can be executed quickly and frequently, providing immediate feedback on the quality of the code.
-- Increased test coverage: Automated tests can cover a wide range of scenarios and edge cases that are difficult to test manually.
-- Consistent results: Automated processes ensure that tests are executed in a consistent and reproducible manner, reducing the risk of human error.
-- Reduced human error: Automations eliminate the need for manual intervention, reducing the risk of human error and ensuring the accuracy of test results.
-- Improved efficiency: Automations save time and effort by executing tasks faster and more reliably than manual processes.
-- Frees up QA for strategic work: By automating repetitive tasks, QA teams can focus on more strategic activities, such as exploratory testing, test planning, and analyzing test results.
-- Scalability: Automations enable teams to scale their testing efforts across multiple environments, platforms, and configurations, ensuring consistent quality across the board.
-- Long term cost savings: While there is an initial investment in setting up automations, the long-term benefits include reduced testing time, faster time-to-market, and improved product quality.
+- **Faster feedback**: Automated tests can be executed quickly and frequently, providing immediate feedback on code quality.
+- **Increased test coverage**: Automated tests can cover a wide range of scenarios and edge cases that are difficult to test manually.
+- **Consistent results**: Automated processes ensure that tests are executed in a consistent and repeatable manner, reducing the risk of human error.
+- **Less human error**: Automation eliminates the need for manual intervention, reducing the risk of human error and ensuring the accuracy of test results.
+- **Increased efficiency**: Automation saves time and effort by performing tasks faster and more reliably than manual processes.
+- **Frees teams to work strategically**: By automating repetitive tasks, teams can focus on more strategic activities such as exploratory testing, test planning and analyzing test results.
+- **Scalability**: Automation enables teams to scale testing activities across multiple environments, platforms and configurations, ensuring consistent quality across the board.
+- **Long-term savings**: While an initial investment in an automation setup is necessary, long-term benefits include reduced testing time, faster time-to-market and improved product quality.
 
 ## 3.2 Types of automations
 
