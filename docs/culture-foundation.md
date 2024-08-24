@@ -1,6 +1,6 @@
 # Section 1: Culture foundation - cultivating a quality culture
 
-The foundation of a quality-first culture is the cornerstone of a successful QA architecture. It is essential to establish a mindset that values quality and to create processes that support this mindset. Build a strong foundation based on shared responsibility, open communication, and commitement to quality on all stages of development. This section will guide you through the key steps to cultivate a quality culture in your organization.
+The foundation of a quality-first culture is the cornerstone of a successful QA architecture. It is essential to establish a mindset that values quality and to create processes that support this mindset. Build a strong foundation based on shared responsibility, open communication, and commitment to quality on all stages of development. This section will guide you through the key steps to cultivate a quality culture in your organization.
 
 ## 1.1 From "QA phase" to "Quality all the way"
 

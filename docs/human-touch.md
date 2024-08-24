@@ -50,7 +50,7 @@ Accessibility testing focuses on ensuring that the software is usable by individ
 - **Advocate for accessibility**: Promote accessibility awareness within your organization, educate team members on best practices, and advocate for inclusive design principles to create software that is accessible to all users.
 - **Integrate accessibility into your development process**: Incorporate accessibility testing into your QA process, conduct regular audits, and ensure that accessibility is considered at every stage of the software development lifecycle.
 
-### 4.1.3 Colaboration with automations
+### 4.1.3 Collaboration with automations
 
 Human-driven testing and automated testing are not mutually exclusive; they complement each other to provide comprehensive test coverage and ensure software quality. By combining the strengths of human testers and automated tools, you can achieve a balance between creativity, exploration, and efficiency in your testing efforts. You can leverage automation to handle repetitive tasks, regression testing, and performance testing, while humans focus on exploratory testing, usability testing, and accessibility testing. Key points to consider:
 
