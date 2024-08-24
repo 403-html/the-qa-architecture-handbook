@@ -1,0 +1,9 @@
+bash << EOF
+
+# Make sure installed dependencies are up-to-date
+yarn install
+
+# Run precommit script
+yarn precommit
+
+EOF

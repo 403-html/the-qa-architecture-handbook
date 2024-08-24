@@ -1,0 +1,19 @@
+{
+  "name": "the-qa-architecture-handbook",
+  "version": "1.0.0",
+  "repository": "git@github.com:403-html/the-qa-architecture-handbook.git",
+  "license": "MIT",
+  "devDependencies": {
+    "auto-authors": "^0.1.5",
+    "husky": "^9.1.5",
+    "markdownlint-cli": "^0.41.0",
+    "prettier": "^3.3.3"
+  },
+  "scripts": {
+    "postinstall": "husky",
+    "format": "prettier --write docs/**/*.md && prettier --write ./{README,CONTRIBUTION}.md",
+    "lint": "markdownlint docs/**/*.md ./README.md ./CONTRIBUTION.md",
+    "authors": "auto-authors",
+    "precommit": "yarn format && yarn lint"
+  }
+}
