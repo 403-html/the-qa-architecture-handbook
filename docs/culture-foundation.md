@@ -1,78 +1,76 @@
 # Section 1: Culture foundation - cultivating a quality culture
 
-The foundation of a quality-first culture is the cornerstone of a successful QA
-architecture. It is essential to establish a mindset that values quality and to
-create processes that support this mindset. Build a strong foundation based on
-shared responsibility, open communication, and commitment to quality on all
-stages of development. This section will guide you through the key steps to
-cultivate a quality culture in your organization.
+The quality-oriented culture is foundation of a successful QA architecture. It
+is essential to establish a mindset that values quality, and creating processes
+that support this mindset. Build a strong foundation based on shared
+responsibility, open communication and a commitment to quality at all stages of
+development. This section will guide you through the key steps to cultivate a
+culture of quality in your organization.
 
 ## 1.1 From "QA phase" to "Quality all the way"
 
-By many organizations, quality assurance is often seen as a separate phase in
-the development process, at the end of the cycle. This approach introduces a
-risk of overlooking quality issues until the final stages, which can lead to
-costly reworks, bottlenecks, fixes, frustrated teams, and unhappy customers. To
-avoid these pitfalls, it is crucial to shift the focus from "QA phase" to
-"Quality all the way".
+In many organizations, quality assurance is often seen as a separate phase of
+the development process, at the end of the cycle. This approach introduces risk
+of overlooking quality issues all the way to the final stages, which can lead to
+costly reworks, bottlenecks, fixes, frustrated teams and not satisfied
+customers. To avoid these pitfalls, it is crucial to shift the focus from the
+“QA phase” to the “Quality all the way”.
 
 ### 1.1.1 To achieve this, consider the following
 
 - **Quality is everyone's responsibility**: All team members (developers,
-  testers, product managers, designers, etc.) should be accountable for the
-  quality of the product. Encourage a shared responsibility for quality across
-  the organization. Quality should not be the sole responsibility of the QAs; it
-  is a collective effort that involves all team members. After all, everyone
-  wants to deliver a high-quality product.
-- **Quality is not just a checklist**: Quality is not just about meeting the
-  requirements or passing the tests. It is about delivering value to the
-  end-users. Focus on the end-user experience and ensure that the product meets
-  their needs and expectations. Quality should be a mindset that drives every
-  decision and action, from planning requirements to delivering features and
-  beyond.
-- **Quality should be built-in**: Instead of treating quality as an
-  afterthought, build it into the development process from the beginning.
-  Implement practices like code reviews, pair programming, continuous
-  integration, and automated testing to catch issues early and prevent defects
-  from reaching production. By embedding quality into every step of the
-  development lifecycle, you can ensure that the product is of high quality, and
-  minimize the risk of defects and reworks later on.
+  testers, QA, product managers, designers, etc.) should be responsible for
+  product quality. Encourage shared responsibility for quality across the
+  organization. Quality should not be the sole responsibility of QAs; it is a
+  shared effort that involves all team members. After all, everyone wants to
+  deliver a quality product.
+- **Quality is not just a checklist**: Quality is not just about meeting
+  requirements or passing tests. It's about delivering value to end users. Focus
+  on the end-user experience and make sure the product meets their needs and
+  expectations. Quality should be the mindset that drives every decision and
+  action, from requirements planning to feature delivery and beyond.
+- **Quality should be built-in**: Instead of treating quality lightly, build it
+  into the development process from the beginning. Implement practices such as
+  code reviews, pair programming, continuous integration and automated testing
+  to catch problems early and prevent defects from getting into production. By
+  integrating quality into every stage of the development cycle, you can ensure
+  that the product is of high quality, and you can grow confidence that you
+  minimize the risk of defects and rework later on.
 
 ### 1.1.2 Practical steps
 
 - **Break down conventional silos** and encourage cross-functional collaboration
   and communication between teams.
-- **Integrate QA practices early** in the development process to catch issues
-  sooner and reduce costs (yes, quality is also cost-effective).
+- **Integrate QA practices early** in the development process to catch problems
+  faster and reduce costs (yes, quality is also cost-effective).
 - **Implement a culture of continuous improvement** by collecting feedback,
-  analyzing data, and learning from mistakes.
+  analyzing data and learning from mistakes.
 
 ## 1.2 From "Blame" to "Feedback"
 
-In a blame culture, mistakes are often hidden, ignored, or attributed to
-individuals, which can lead to a lack of transparency, trust issues, and a fear
-of failure. To foster a quality-first culture, it is essential to shift from a
-blame culture to a feedback culture. Open and honest feedback is crucial for
-identifying issues, improving processes, and fostering a culture of learning and
-growth. Create an environment where feedback is welcomed, constructive, and used
-to drive change.
+In a blame culture, mistakes are often hidden, ignored or attributed to
+individuals, which can lead to a lack of transparency, trust issues and fear of
+failure when trying new, better things. To foster a quality-oriented culture, it
+is necessary to move from a blame culture to a feedback culture. Open and honest
+feedback is the key to identifying problems, improving processes and supporting
+a culture of learning and development. Create an environment where feedback is
+welcomed, constructive and used to drive change.
 
 ### 1.2.1 To achieve this, consider the following
 
-- **Constructive feedback**: Encourage team members to provide feedback in a
-  constructive and respectful manner. Feedback should focus on behaviors,
-  processes, and outcomes, rather than individuals. Create a safe space where
-  team members feel comfortable sharing their thoughts and ideas without fear of
-  retribution.
-- **Actionable feedback**: Feedback should be specific, actionable, and focused
-  on improvement. Avoid vague or general feedback that does not provide clear
-  guidance on how to address the issue. When providing feedback, offer
-  suggestions for improvement and collaborate on finding solutions.
-- **Feedback loops**: Establish feedback mechanisms to gather input from team
-  members, stakeholders, and customers. Use surveys, retrospectives, one-on-one
-  meetings, and other tools to collect feedback and identify areas for
-  improvement. Regularly review and act on feedback to drive continuous
-  improvement.
+- **Constructive feedback** should be given in constructive and respectful
+  manner. Feedback should focus on behaviors, processes and results, not on
+  individuals. Create a safe space where team members feel comfortable sharing
+  their thoughts and ideas without fear of retaliation.
+- **Use feedback that can be used**, it should be specific, actionable and
+  focused on improvement. Avoid vague or general feedback that doesn't provide
+  clear guidance on how to address an issue. When providing feedback, offer
+  suggestions for improvement and work together to find solutions.
+- **Feedback loops** are key to successful feedback. Establish mechanisms for
+  collecting feedback from team members, stakeholders and customers. Use
+  surveys, retrospectives, one-on-one meetings and other tools to gather
+  feedback and identify areas for improvement. Regularly analyze feedback and
+  act on it for continuous improvement.
 
 ### 1.2.2 Practical steps
 
@@ -95,25 +93,25 @@ to drive change.
 
 ## 1.3 From "Testing" to "Quality Engineering"
 
-To build a quality culture, you need to equip teams with the right resources,
-and knowledge to deliver high-quality products consistently. This requires a
-shift from traditional "testing" to a more holistic approach. Quality
-Engineering is a strategic and comprehensive approach to quality that focuses on
-prevention, early detection, and continuous improvement. It encompasses a wide
-range of practices, tools, and techniques to ensure that quality is built into
-every stage of the development process. About it later in the handbook, just
-remember that it's not just about testing; it's about investing in quality from
-the start.
+To build a culture of quality, teams need to be equipped with the right
+resources and knowledge to consistently deliver quality products. This requires
+moving away from traditional “testing” to a more holistic approach. Quality
+engineering is a strategic and comprehensive approach to quality that focuses on
+prevention, early detection and continuous improvement. It encompasses a wide
+range of practices, tools and techniques to ensure that quality is built into
+every stage of the development process. We'll talk more about this later in the
+manual, just remember that it's not just about testing; it's about investing
+(time and effort) in quality from the very beginning.
 
 ## 1.4 From "Chaos" to "Metrics-driven"
 
-In a chaotic environment, decisions are made based on gut feelings, opinions, or
-the loudest voice in the room. This can lead to inconsistent results, misaligned
-priorities, and wasted efforts. To create a quality-first culture, it is
-essential to shift from chaos to a metrics-driven approach. By using data,
-metrics, and insights to drive decisions, you can make informed choices, measure
-progress, and identify areas for improvement. Establish clear goals, define key
-performance indicators (KPIs), and track metrics to monitor the health of your
+In a chaotic environment, decisions are made based on hunches, opinions or the
+loudest voice in the room. This can lead to inconsistent results, misplaced
+priorities and wasted efforts. To create a quality-oriented culture, it is
+necessary to move from chaotic, to a metrics-based approach. By using data,
+metrics and insights to make decisions, you can make informed choices, measure
+progress and identify areas for improvement. Set clear goals, define key
+performance indicators (KPIs) and track metrics to monitor the health of
 processes and products.
 
 ### 1.4.1 To achieve this, consider the following
