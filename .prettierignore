@@ -1,0 +1,11 @@
+.git/
+.husky/
+.markdownlintignore
+.prettierignore
+.vscode/
+dist/
+LICENSE
+node_modules/
+package-lock.json
+package.json
+yarn.lock

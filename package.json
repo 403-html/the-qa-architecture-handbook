@@ -6,14 +6,15 @@
   "devDependencies": {
     "auto-authors": "^0.1.5",
     "husky": "^9.1.5",
+    "lint-staged": "^15.2.9",
     "markdownlint-cli": "^0.41.0",
     "prettier": "^3.3.3"
   },
   "scripts": {
     "postinstall": "husky",
-    "format": "prettier --write docs/**/*.md && prettier --write ./{README,CONTRIBUTION}.md",
-    "lint": "markdownlint docs/**/*.md ./README.md ./CONTRIBUTION.md",
+    "lint": "markdownlint",
+    "pretty": "prettier --write",
     "authors": "auto-authors",
-    "precommit": "yarn format && yarn lint"
+    "precommit": "lint-staged"
   }
 }
