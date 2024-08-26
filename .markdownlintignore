@@ -2,5 +2,6 @@
 .lintstagedrc.json
 .markdownlintignore
 .prettier*
+AUTHORS.md
 node_modules/
 yarn.lock
