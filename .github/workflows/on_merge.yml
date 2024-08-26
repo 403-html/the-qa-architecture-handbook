@@ -39,6 +39,11 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           commit-message: "chore: update AUTHORS.md"
           title: "chore: update AUTHORS.md"
-          body: "This PR updates the AUTHORS.md file. Related to PR #${{ github.event.pull_request.number }}"
           branch: feat/update-authors-md
           base: main
+
+      - name: Update PR description
+        if: env.CHANGED == 'true'
+        run: |
+          pr_number=$(gh pr view --json number --jq '.number')
+          gh pr edit $pr_number --body "This PR is related to #$pr_number"
