@@ -45,7 +45,7 @@ jobs:
       - name: Update PR description
         if: env.CHANGED == 'true'
         run: |
-          pr_number=$(jq -r ".pull_request.number" "$GITHUB_EVENT_PATH")
+          pr_number=$(gh pr view --json number --jq '.number')
           gh pr edit $pr_number --body "This PR is related to #$pr_number"
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
