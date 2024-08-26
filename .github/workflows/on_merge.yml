@@ -46,5 +46,6 @@ jobs:
       - name: Login and merge PR with gh
         if: env.CHANGED == 'true'
         run: |
-          gh auth login --with-token < ${{ secrets.GITHUB_TOKEN }}
+          echo ${{ secrets.GITHUB_TOKEN }} > token.txt
+          gh auth login --with-token < token.txt
           gh pr merge --auto --squash --delete-branch
