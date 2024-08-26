@@ -21,7 +21,11 @@ jobs:
       - name: Check if AUTHORS.md has changed
         id: check_changes
         run: |
-          git diff --exit-code || echo "::set-output name=changed::true"
+          if git status --porcelain | grep 'AUTHORS.md'; then
+            echo "changed=true" >> $GITHUB_ENV
+          else
+            echo "changed=false" >> $GITHUB_ENV
+          fi
 
       - name: Commit changes
         if: steps.check_changes.outputs.changed == 'true'
