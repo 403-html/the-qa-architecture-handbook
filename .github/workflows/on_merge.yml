@@ -39,13 +39,6 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           commit-message: "chore: update AUTHORS.md"
           title: "chore: update AUTHORS.md"
-          body: "This PR updates the AUTHORS.md file."
+          body: "This PR updates the AUTHORS.md file. Related to PR #${{ github.event.pull_request.number }}"
           branch: feat/update-authors-md
           base: main
-
-      - name: Login and merge PR with gh
-        if: env.CHANGED == 'true'
-        run: |
-          echo ${{ secrets.GITHUB_TOKEN }} > token.txt
-          gh auth login --with-token < token.txt
-          gh pr merge --auto --squash --delete-branch
