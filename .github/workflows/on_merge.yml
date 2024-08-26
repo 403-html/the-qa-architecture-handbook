@@ -31,11 +31,17 @@ jobs:
           
           echo "CHANGED is $CHANGED"
 
-      - name: Commit changes
-        if: ${{ env.CHANGED == 'true' }}
-        run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
-          git add AUTHORS.md
-          git commit -m "docs: update AUTHORS.md"
-          git push
+      - name: Create and push a PR
+        if: env.CHANGED == 'true'
+        uses: peter-evans/create-pull-request@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: "chore: update AUTHORS.md"
+          title: "chore: update AUTHORS.md"
+          body: "This PR updates the AUTHORS.md file."
+          branch: feat/update-authors-md
+          base: main
+
+      - name: Merge PR with gh
+        if: env.CHANGED == 'true'
+        run: gh pr merge --squash --auto
