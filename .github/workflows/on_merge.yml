@@ -42,6 +42,8 @@ jobs:
           branch: feat/update-authors-md
           base: main
 
-      - name: Merge PR with gh
+      - name: Login and merge PR with gh
         if: env.CHANGED == 'true'
-        run: gh pr merge --squash --auto
+        run: |
+          gh auth login --with-token < ${{ secrets.GITHUB_TOKEN }}
+          gh pr merge --auto --squash --delete-branch
