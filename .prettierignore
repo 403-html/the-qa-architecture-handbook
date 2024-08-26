@@ -3,6 +3,7 @@
 .markdownlintignore
 .prettierignore
 .vscode/
+AUTHORS.md
 dist/
 LICENSE
 node_modules/
