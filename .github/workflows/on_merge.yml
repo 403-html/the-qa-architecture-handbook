@@ -41,11 +41,3 @@ jobs:
           title: "chore: update AUTHORS.md"
           branch: feat/update-authors-md
           base: main
-
-      - name: Update PR description
-        if: env.CHANGED == 'true'
-        run: |
-          pr_number=$(jq -r ".pull_request.number" "$GITHUB_EVENT_PATH")
-          gh pr edit $pr_number --body "This PR is related to #$pr_number"
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
