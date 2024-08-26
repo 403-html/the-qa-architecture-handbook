@@ -47,3 +47,5 @@ jobs:
         run: |
           pr_number=$(gh pr view --json number --jq '.number')
           gh pr edit $pr_number --body "This PR is related to #$pr_number"
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
