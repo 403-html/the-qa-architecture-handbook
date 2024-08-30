@@ -7,7 +7,7 @@ This handbook is designed to assist you, whether you are beginning to develop
 your QA processes, or you're seeking to enhance your current practices, by
 outlining the key steps and important factors to consider.
 
-> **Note**: This is not a QA personal growth roadmap type handbook. For that, please refer to the rather widely used [QA roadmap] (https://roadmap.sh/qa) for topics that can be improved in terms of personal QA growth.
+> **Note**: This is not a QA personal growth roadmap type handbook. For that, please refer to the rather widely used [QA roadmap](https://roadmap.sh/qa) for topics that can be improved in terms of personal QA growth.
 
 ## Core philosophy
 
