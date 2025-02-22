@@ -154,7 +154,7 @@ processes and products.
 - **Performance Metrics**: Response time, throughput, error rates, etc.
 - **User-Centric Metrics**: User satisfaction, Net Promoter Score (NPS), retention rate, etc.
 
-## Leadership
+## 1.5 Leadership
 
 Leadership plays a pivotal role in establishing and nurturing a quality-first culture. Leaders and QAs must not only advocate for quality, but actively embody it in their own actions. Executive sponsorship ensures that quality initiatives receive the necessary resources and prioritization to thrive.
 
@@ -165,7 +165,7 @@ Leadership plays a pivotal role in establishing and nurturing a quality-first cu
 - **Remove Barriers**: Identify and address any obstacles that hinder quality processes. These barriers could include bureaucratic processes, inadequate tools, lack of training, or conflicting priorities. Leaders should actively work to streamline workflows and empower teams to focus on quality.
 - **Lead by Example**: Actions speak louder than words. Leaders and QAs must demonstrate a personal commitment to quality in their own work and decisions. This sets a powerful example for others to follow and reinforces the importance of quality throughout the organization. Visibility in quality-related activities, such as participating in reviews, actively seeking feedback, and acknowledging mistakes, reinforces the message.
 
-## Training and Education
+## 1.6 Training and Education
 
 A quality-first culture requires a skilled and knowledgeable workforce. Continuous learning and development are essential for equipping team members with the necessary skills and understanding to prioritize and deliver quality.
 
@@ -175,7 +175,7 @@ A quality-first culture requires a skilled and knowledgeable workforce. Continuo
 - **Professional Certifications**: Encourage and support team members in pursuing relevant industry-recognized certifications. This not only enhances their skills but also demonstrates the organization's commitment to professional development and quality excellence.
 - **Knowledge Sharing and Collaboration**: Foster a culture of knowledge sharing and collaboration. This can be achieved through internal presentations, mentorship programs, communities of practice, and online platforms where team members can share best practices, lessons learned, and quality-related information.
 
-## Rewards and Recognition
+## 1.7 Rewards and Recognition
 
 Recognizing and rewarding quality-focused efforts is crucial for reinforcing desired behaviors and embedding quality into the company culture. Celebrate both individual and team accomplishments related to quality improvement.
 
