@@ -16,7 +16,7 @@ all potential issues. Human-driven testing, on the other hand, emphasizes
 exploration, creativity, and critical thinking to identify problems that may not
 be captured by automated tests or scripted scenarios.
 
-### 4.1.1 Strengths of human-driven testing
+### Strengths of human-driven testing
 
 - **Critical thinking & intuition**: We as humans can apply critical thinking,
   intuition, and domain knowledge to identify potential issues that automated
@@ -28,9 +28,9 @@ be captured by automated tests or scripted scenarios.
   testing process, identifying usability issues, and ensuring that the software
   meets the end-users' needs and expectations.
 
-### 4.1.2 Practical steps
+### Practical steps
 
-#### 4.1.2.1 Exploratory testing
+#### Exploratory testing
 
 While automated tests are excellent at verifying known scenarios, exploratory
 testing is a powerful technique for uncovering unknown issues. Testers explore
@@ -51,7 +51,7 @@ potential problems. Here are some tips for effective exploratory testing:
   opportunities to automate repetitive tasks and scenarios to increase
   efficiency and coverage.
 
-#### 4.1.2.2 Usability testing
+#### Usability testing
 
 Usability testing focuses on evaluating the software from the end-user's
 perspective, identifying usability issues, and ensuring a seamless user
@@ -80,7 +80,7 @@ experience. Here are some tips for effective usability testing:
   interactions, capture feedback, and analyze usability metrics to gain deeper
   insights into user behavior and preferences.
 
-#### 4.1.2.3 Accessibility testing
+#### Accessibility testing
 
 Accessibility testing focuses on ensuring that the software is usable by
 individuals with disabilities, complying with accessibility standards and
@@ -110,7 +110,7 @@ guidelines. Here are some tips for effective accessibility testing:
   that accessibility is considered at every stage of the software development
   lifecycle.
 
-### 4.1.3 Collaboration with automations
+### Collaboration with automations
 
 Human-driven testing and automated testing are not mutually exclusive; they
 complement each other to provide comprehensive test coverage and ensure software
