@@ -44,7 +44,7 @@ Automations can be broadly categorized into two main types: process automations
 and test automations. Both types play a crucial role in ensuring the efficiency,
 reliability, and quality of the software development process.
 
-### 3.2.1 Process automations
+### Process automations
 
 Process automations focus on streamlining and optimizing the development process
 by automating repetitive tasks and workflows. These automations help teams save
@@ -77,7 +77,7 @@ in routine tasks. Key examples of process automations include:
   triaging, and test case generation, to improve productivity and reduce manual
   effort.
 
-### 3.2.2 Test automations
+### Test automations
 
 Test automations focus on automating the testing process to ensure that software
 meets the desired quality standards. Automated tests can cover a wide range of
@@ -102,7 +102,7 @@ automations include:
   application, covering multiple components and workflows to validate the
   end-to-end functionality.
 
-#### 3.2.2.1 Choosing the right test automation strategy
+#### Choosing the right test automation strategy
 
 When implementing test automations, it is essential to choose the right strategy
 that aligns with your goals, resources, and constraints. Some common test
@@ -125,7 +125,7 @@ automation strategies include:
   It's a valid strategy for MVPs where we need to ensure the critical paths are
   working as expected, but it should not be the long-term strategy.
 
-### 3.2.3 Choosing the right tools
+### Choosing the right tools
 
 Selecting the right tools for automations might seem like a daunting task, given
 the wide range of options available in the market. When choosing tools for
@@ -152,7 +152,7 @@ process and test automations, consider the following factors:
   reporting, analytics, collaboration, and extensibility. Choose tools that meet
   your specific requirements and enable you to achieve your automation goals.
 
-#### 3.2.3.1 Popular tools for automations
+#### Popular tools for automations
 
 Here are some popular tools for process and test automations that are widely
 used in the industry:
