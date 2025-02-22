@@ -29,31 +29,19 @@ empowering everyone to play a role in delivering outstanding products.
   alt="four-pillars">
 </p>
 
-We will explore the journey of creating a solid QA architecture through four key
-pillars that are closely linked:
+We will explore the creation of a solid QA architecture through four interconnected pillars:
 
-- **Culture foundation**: Fostering a quality culture; establishing a
-  quality-first mindset and creating vital planning processes to support it.
-- **Core infrastructure**: Continuous deployments, continuous monitoring and
-  early issues detection; developing a strong infrastructure for ongoing
-  monitoring, proactive identification of issues, and ensuring security.
-- **Automations**: We should scale our confidence by deploying a thorough range
-  of automated processes and tests to guarantee processes and code quality,
-  functionality, and performance.
-- **Exploratory and manual testing**: Now the human element, utilizing human
-  insight, creativity, and feedback from real users to identify problems and
-  enhance the overall user experience.
+- **Culture Foundation**: Establishing a quality culture; fostering a quality-first mindset and developing essential planning processes to support it.
+- **Core Infrastructure**: Implementing continuous deployments, continuous monitoring, and early issue detection; building a robust infrastructure for ongoing monitoring, proactive issue identification, and ensuring security.
+- **Automations**: Scaling confidence by deploying comprehensive automated processes and tests to guarantee process and code quality, functionality, and performance.
+- **Exploratory and Manual Testing**: Leveraging human insight, creativity, and user feedback to identify issues and enhance the overall user experience.
 
 ## Sections & Resources
 
-- Go to [Section 1: Culture foundation](./docs/culture-foundation.md) -
-  cultivating a quality culture
-- Go to [Section 2: Core infrastructure](./docs/core-infrastructure.md) -
-  monitoring and early detection
-- Go to [Section 3: Automations](./docs/automations.md) - building confidence at
-  scale
-- Go to [Section 4: Exploratory and manual testing](./docs/human-touch.md) - the
-  human touch
+- Go to [Section 1: Culture Foundation](./docs/culture-foundation.md) - cultivating a quality culture
+- Go to [Section 2: Core Infrastructure](./docs/core-infrastructure.md) - monitoring and early detection
+- Go to [Section 3: Automations](./docs/automations.md) - building confidence at scale
+- Go to [Section 4: Exploratory and Manual Testing](./docs/human-touch.md) - the human touch
 
 ## Contribution and style guidelines
 
