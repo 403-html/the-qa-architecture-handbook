@@ -1,11 +1,6 @@
 # Section 1: Culture foundation - cultivating a quality culture
 
-The quality-oriented culture is foundation of a successful QA architecture. It
-is essential to establish a mindset that values quality, and creating processes
-that support this mindset. Build a strong foundation based on shared
-responsibility, open communication and a commitment to quality at all stages of
-development. This section will guide you through the key steps to cultivate a
-culture of quality in your organization.
+Quality-first culture isn't just a slogan; it's a fundamental way of operating where quality is integrated in every process, decision, and interaction in company. This section will guide you through the key steps to cultivate a culture of quality in your organization.
 
 ## 1.1 From "QA phase" to "Quality all the way"
 
@@ -16,7 +11,7 @@ costly reworks, bottlenecks, fixes, frustrated teams and not satisfied
 customers. To avoid these pitfalls, it is crucial to shift the focus from the
 “QA phase” to the “Quality all the way”.
 
-### 1.1.1 To achieve this, consider the following
+### Key Points
 
 - **Quality is everyone's responsibility**: All team members (developers,
   testers, QA, product managers, designers, etc.) should be responsible for
@@ -37,7 +32,7 @@ customers. To avoid these pitfalls, it is crucial to shift the focus from the
   that the product is of high quality, and you can grow confidence that you
   minimize the risk of defects and rework later on.
 
-### 1.1.2 Practical steps
+### Practical Steps
 
 - **Break down conventional silos** and encourage cross-functional collaboration
   and communication between teams.
@@ -56,7 +51,7 @@ feedback is the key to identifying problems, improving processes and supporting
 a culture of learning and development. Create an environment where feedback is
 welcomed, constructive and used to drive change.
 
-### 1.2.1 To achieve this, consider the following
+### Key Points
 
 - **Constructive feedback** should be given in constructive and respectful
   manner. Feedback should focus on behaviors, processes and results, not on
@@ -72,24 +67,24 @@ welcomed, constructive and used to drive change.
   feedback and identify areas for improvement. Regularly analyze feedback and
   act on it for continuous improvement.
 
-### 1.2.2 Practical steps
+### Practical Steps
 
 - **Establish clear communication channels and expectations**
   - Create specific ways for feedback to be given (regular meetings, online
-    tools, dedicated time slots).
+   tools, dedicated time slots).
   - Clearly communicate what kind of feedback is most valuable (actionable,
-    specific, focused on improvement).
+   specific, focused on improvement).
 - **Foster a culture of psychological safety**
   - Emphasize that feedback is about collective growth, not blame.
   - Encourage asking questions, admitting mistakes, and seeking help as positive
-    behaviors.
+   behaviors.
   - Leaders should model this by openly receiving and giving good feedback
-    themselves.
+   themselves.
 - **Close the feedback loop**
   - Don't let feedback disappear. Have mechanisms to track, discuss, and act on
-    it.
+   it.
   - Share outcomes with the team, so people see their input is valued and leads
-    to change.
+   to change.
 
 ## 1.3 From "Testing" to "Quality Engineering"
 
@@ -114,7 +109,7 @@ progress and identify areas for improvement. Set clear goals, define key
 performance indicators (KPIs) and track metrics to monitor the health of
 processes and products.
 
-### 1.4.1 To achieve this, consider the following
+### Key Points
 
 - **Define clear goals**: Establish specific, measurable, achievable, relevant,
   and time-bound (SMART) goals for your team and projects. Ensure that everyone
@@ -150,14 +145,41 @@ processes and products.
   engagement, retention, and other key indicators to ensure that your products
   meet the needs and expectations of your users.
 
-### 1.4.2 Examples of metrics
+### Examples of Metrics
 
-- **Defect density**: The number of defects found in a specific period or
-  project.
-- **Test coverage**: The percentage of code covered by automated tests.
-- **Code churn**: The rate of change in code over time.
-- **Code complexity**: The complexity of the codebase, measured by cyclomatic
-  complexity or other metrics.
-- **Performance metrics**: Response time, throughput, error rates and so on.
-- **User-centric metrics**: User satisfaction, Net Promoter Score (NPS),
-  retention rate, and other user-focused indicators.
+- **Defect Density**: Number of defects found in a specific period or project.
+- **Test Coverage**: Percentage of code covered by automated tests.
+- **Code Churn**: Rate of change in code over time.
+- **Code Complexity**: Complexity of the codebase.
+- **Performance Metrics**: Response time, throughput, error rates, etc.
+- **User-Centric Metrics**: User satisfaction, Net Promoter Score (NPS), retention rate, etc.
+
+## Leadership
+
+Leadership plays a pivotal role in establishing and nurturing a quality-first culture. Leaders and QAs must not only advocate for quality, but actively embody it in their own actions. Executive sponsorship ensures that quality initiatives receive the necessary resources and prioritization to thrive.
+
+### Key Points
+
+- **Set the Tone from the Top**: Leaders and QAs must clearly and consistently communicate the importance of quality. This includes articulating the company's quality vision (or building it from the ground up), explaining how it connects to overall business goals, and emphasizing the impact of quality on customer satisfaction and the company's reputation.
+- **Provide Resources**: A commitment to quality requires investment. Allocate sufficient resources, including budget, time, tools, and personnel, to support quality initiatives. This demonstrates a tangible commitment and empowers teams to prioritize quality.
+- **Remove Barriers**: Identify and address any obstacles that hinder quality processes. These barriers could include bureaucratic processes, inadequate tools, lack of training, or conflicting priorities. Leaders should actively work to streamline workflows and empower teams to focus on quality.
+- **Lead by Example**: Actions speak louder than words. Leaders and QAs must demonstrate a personal commitment to quality in their own work and decisions. This sets a powerful example for others to follow and reinforces the importance of quality throughout the organization. Visibility in quality-related activities, such as participating in reviews, actively seeking feedback, and acknowledging mistakes, reinforces the message.
+
+## Training and Education
+
+A quality-first culture requires a skilled and knowledgeable workforce. Continuous learning and development are essential for equipping team members with the necessary skills and understanding to prioritize and deliver quality.
+
+### Key Points
+
+- **Targeted Workshops and Training Programs**: Offer regular training sessions on quality-related topics tailored to different roles and responsibilities. These could include training on quality management principles, specific quality tools and techniques (e.g., root cause analysis, statistical process control), and industry best practices.
+- **Professional Certifications**: Encourage and support team members in pursuing relevant industry-recognized certifications. This not only enhances their skills but also demonstrates the organization's commitment to professional development and quality excellence.
+- **Knowledge Sharing and Collaboration**: Foster a culture of knowledge sharing and collaboration. This can be achieved through internal presentations, mentorship programs, communities of practice, and online platforms where team members can share best practices, lessons learned, and quality-related information.
+
+## Rewards and Recognition
+
+Recognizing and rewarding quality-focused efforts is crucial for reinforcing desired behaviors and embedding quality into the company culture. Celebrate both individual and team accomplishments related to quality improvement.
+
+### Key Points
+
+- **Integrate Quality Metrics into Performance Evaluations**: Align individual and team performance evaluations with quality-related metrics. This ensures that quality is a key factor in performance assessment and reinforces its importance.
+- **Publicly Acknowledge and Celebrate Achievements**: Highlight quality achievements through shout-outs in company-wide communications. Public recognition not only celebrates success but also inspires others to strive for excellence. Sharing success stories and best practices can further amplify the impact.
