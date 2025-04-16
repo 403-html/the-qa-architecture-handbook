@@ -13,7 +13,7 @@ outlining the key steps and important factors to consider.
 
 Before exploring the details, it’s essential to understand a key principle: **Quality is not just the responsibility of the QA team**. Instead, it is a shared responsibility that involves everyone who is part of the software development process, from idea to deploy and monitoring. This means that all teams and individuals play a role in ensuring that the products we create are of high quality.
 
-The QA team has a vital role in this process. They are responsible for entering processes, modifying them, deleting unnecessary steps, demonstrating best practices, and teaching others about quality standards. Their expertise helps guide everyone in maintaining high-quality work.
+The QA team has a vital role in this process. They are responsible for creating processes to assure that quality standards are higher, modifying them, deleting unnecessary steps, demonstrating best practices, and teaching others about quality standards. Their expertise helps guide everyone in maintaining high-quality work.
 
 This handbook is here to help you build a culture that prioritizes quality. We want to empower each person to take part in delivering great products. By working together and focusing on quality, we can achieve better results and create software that meets the needs of our users.
 
