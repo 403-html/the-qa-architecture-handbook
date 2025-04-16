@@ -11,13 +11,11 @@ outlining the key steps and important factors to consider.
 
 ## Core philosophy
 
-Before exploring the details, it is essential to recognize a key principle:
-**Quality is not exclusively the duty of the QA team; rather, it is a collective
-responsibility that encompasses all teams and individuals engaged in the
-software development process.**
+Before exploring the details, it’s essential to understand a key principle: **Quality is not just the responsibility of the QA team**. Instead, it is a shared responsibility that involves everyone who is part of the software development process, from conception to deployment and monitoring. This means that all teams and individuals play a role in ensuring that the products we create are of high quality.
 
-This handbook aims to assist you in cultivating a quality-first culture,
-empowering everyone to play a role in delivering outstanding products.
+The QA team has a vital role in this process. They are responsible for creating processes to assure that quality standards are higher, modifying them, deleting unnecessary steps, demonstrating best practices, and teaching others about quality standards. Their expertise helps guide everyone in maintaining high-quality work.
+
+This handbook is here to help you build a culture that prioritizes quality. We want to empower each person to take part in delivering great products. By working together and focusing on quality, we can achieve better results and create software that meets the needs of our users.
 
 ## Four pillars of a QA architecture
 
