@@ -1,7 +1,7 @@
 # The QA architecture handbook: Guide for building a quality-first culture
 
 This short guide provides a structured framework and practical advice for
-building a rock-solid, end-to-end QA architecture in an organization.
+building a rock-solid, end-to-end (not to be confused with the test layer) QA architecture in an organization.
 
 This handbook is designed to assist you, whether you are beginning to develop
 your QA processes, or you're seeking to enhance your current practices, by
